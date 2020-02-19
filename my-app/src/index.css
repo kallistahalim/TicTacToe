@@ -1,0 +1,27 @@
+body {
+    background-color: #f9f2fc;
+    color: grey;
+    
+}
+
+.status {
+    text-align: center;
+    font-size: 100px;
+    font-style: oblique;
+}
+
+.board-row {
+    text-align: center;
+    
+}
+
+.btn {
+    background-color: #f9f2fc;
+    border-color : grey;
+    padding: 50px;
+    margin: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+}
